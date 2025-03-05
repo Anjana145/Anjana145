@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjana145  
 - 👀 I’m interested in crafting beautiful, responsive, and user-friendly web interfaces.  
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and modern CSS techniques like Tailwind CSS.  
+- 🌱 I’m currently learning and using advanced JavaScript frameworks like React and modern CSS techniques like Tailwind CSS, getting used to mockapi.
 - 💞️ I’m looking to collaborate on frontend projects, design systems, and tools that enhance user experience.  
 - 📫 How to reach me: LinkedIn: [Anjana's LinkedIn](https://www.linkedin.com/in/anjana-maharjan-219212264/) 
 - 😄 Pronouns: She/Her  
